@@ -1,0 +1,33 @@
+_repo: Ride-A-Cock-Horse-To-Banbury-Cross--amp--A-Farmer-Went-Trotting-Upon-His-Grey-MareR.-Caldecot__18596
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2006-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Nursery rhymes, English'
+- !lcsh 'Picture books for children'
+title: 'Ride A Cock-Horse To Banbury Cross & A Farmer Went Trotting Upon His Grey
+  Mare
+
+  R. Caldecott''s Picture Books'
+url: http://www.gutenberg.org/ebooks/18596
